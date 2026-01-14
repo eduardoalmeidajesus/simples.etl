@@ -25,18 +25,6 @@ O objetivo é evitar duplicação de código e facilitar a manutenção e evolu�
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-simples.etl/
-├── src/main/java/
-│ └── br/edu/utfpr/td/tsi/simplesetl
-├── pom.xml
-└── README.md
-```
-
----
-
 ## 📦 Como Utilizar
 
 ### Pré-requisitos
