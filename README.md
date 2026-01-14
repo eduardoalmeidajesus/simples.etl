@@ -1,7 +1,7 @@
 # simples.etl
 
 Biblioteca desenvolvida em Java com o objetivo de fornecer uma estrutura simples e reutilizável para a implementação de processos **ETL (Extração, Transformação e Carga)**.  
-Este projeto é utilizado como dependência pela aplicação **etl.json**.
+Este projeto é utilizado como dependência pela aplicação [etl.json](https://github.com/eduardoalmeidajesus/etl.json).
 
 ---
 
