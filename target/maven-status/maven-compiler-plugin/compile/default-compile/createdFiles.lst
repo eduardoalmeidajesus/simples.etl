@@ -1,0 +1,6 @@
+br\edu\utfpr\td\tsi\simples\etl\CarregadorArquivosJson.class
+br\edu\utfpr\td\tsi\simples\etl\Transformador.class
+br\edu\utfpr\td\tsi\simples\etl\Carregador.class
+br\edu\utfpr\td\tsi\simples\etl\Job.class
+br\edu\utfpr\td\tsi\simples\etl\Extrator.class
+br\edu\utfpr\td\tsi\simples\etl\ExtratorListaItemsArquivosJson.class
